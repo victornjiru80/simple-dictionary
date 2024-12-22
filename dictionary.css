@@ -1,4 +1,4 @@
-/* Import Google Font - Poppins */
+⁸/* Import Google Font - Poppins */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
@@ -56,6 +56,7 @@ body{
   padding: 0 41px;
   border: 2px solid #4D59FB;
 }
+
 .search input::placeholder{
   color: #B8B8B8;
 }

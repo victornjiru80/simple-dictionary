@@ -67,6 +67,7 @@ body{
   color: #999;
   transform: translateY(-50%);
 }
+
 .search i{
   left: 18px;
   pointer-events: none;

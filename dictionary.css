@@ -94,6 +94,7 @@ body{
   color: #9A9A9A;
   margin: -3px 0 -10px;
 }
+
 .wrapper.active .info-text{
   display: none;
 }

@@ -110,6 +110,7 @@ body{
   overflow-y: hidden;
   transition: all 0.2s ease;
 }
+
 .wrapper.active ul{
   opacity: 1;
   height: 303px;
